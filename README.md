@@ -8,11 +8,6 @@ This project simulates a real-world sales analysis task using **SQL**, **Power B
 - Data modeling and DAX measures in Power BI
 - A fully interactive sales dashboard for reporting
 
-## 🔗 Live Walkthrough Portfolio
-
-👉 View the interactive version here:  
-https://yurasportfolio.blog
-
 ## 🛠 Tools & Technologies
 - Power BI
 - SQL Server / SSMS
