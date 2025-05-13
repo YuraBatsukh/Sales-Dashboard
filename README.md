@@ -22,5 +22,5 @@ https://yurasportfolio.blog
 ## 📁 Files Included (all files are above)
 
 ## 📌 Description
-This walkthrough was created to demonstrate end-to-end data analysis and visualization skills, from raw data to business insights.
-
+This walkthrough was created to demonstrate end-to-end data analysis and visualization skills — from raw data to business insights.  
+The project is based on the **Microsoft AdventureWorks sample database**, extended to include **sales data up to 2025** for modern reporting and forecasting analysis.
